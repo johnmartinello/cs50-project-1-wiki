@@ -1,6 +1,6 @@
 # cs50 project 1 wiki
 
-##technologies used:
+## technologies used:
 ###Back-end:
 - Python.
 - Django.
