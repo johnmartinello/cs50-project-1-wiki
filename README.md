@@ -8,6 +8,7 @@
 - Html: also used Django templating.
 - css: also used (some) Bootstrap.
 
+## Page features:
 ### Entry Page: 
 - Visiting /wiki/TITLE, where TITLE is the title of an encyclopedia entry,  render a page that displays the contents of that encyclopedia entry.
 - The view  get the content of the encyclopedia entry by calling the appropriate util function.
